@@ -1,0 +1,22 @@
+** start of script.js **
+
+var adjective="happy";
+var noun="kid";
+var verb='play';
+var place="garden";
+var adjective2="hot";
+var noun2="pizza";
+var firstStory;
+firstStory ="Once upon a time, there was a(n) "+adjective+ " "+noun+" who loved to eat " + noun2 + ". The " + noun + " lived in a "+place+" and had " +adjective2+" nostrils that blew fire when it was "+verb+".";
+console.log("First story: "+firstStory)
+adjective="small"
+noun="phone"
+verb="feel"
+place="london"
+adjective2="big"
+noun2="pizza"
+var secondStory = "Once upon a time, there was a(n) "+adjective+" " +noun+" who loved to eat "+noun2+". The "+noun+" lived in a "+place+" and had "+adjective2+" nostrils that blew fire when it was "+verb+"."
+console.log("Second story: "+secondStory)
+
+** end of script.js **
+
